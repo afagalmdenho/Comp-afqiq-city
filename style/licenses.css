@@ -240,15 +240,7 @@
             font-weight: 600;
         }
         
-        .page-header {
-            background: linear-gradient(rgba(10, 38, 71, 0.9), rgba(10, 38, 71, 0.95)), url('https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
-            background-size: cover;
-            background-position: center;
-            color: var(--white);
-            padding: 100px 0 60px;
-            text-align: center;
-        }
-        
+       
         .page-header h1 {
             font-size: 2.8rem;
             color: var(--white);
